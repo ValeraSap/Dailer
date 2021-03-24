@@ -3,4 +3,16 @@
     <color name="colorPrimary">#6200EE</color>
     <color name="colorPrimaryDark">#3700B3</color>
     <color name="colorAccent">#03DAC5</color>
+
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="dark_theme_background">#121212</color>
+    <!-- first palette -->
+    <!-- <color name=""></color> -->
+    <color name="green">#253532</color>
+    <color name="blue">#517f83</color>
+    <color name="beige">#9e8d77</color>
+    <color name="brown">#583d34</color>
+    <color name="dark_brown">#1f1b17</color>
+    <color name="transparent">#00000000</color>
 </resources>

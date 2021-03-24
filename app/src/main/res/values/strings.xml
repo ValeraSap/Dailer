@@ -1,5 +1,25 @@
 <resources>
-    <string name="app_name">ToDo List</string>
+    <string name="app_name">Dailer</string>
     <!-- TODO: Remove or change this placeholder text -->
-    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <string name="empty_list_notify">List is empty</string>
+
+    <string name="monday">Mon</string>
+    <string name="tuesday">Tue</string>
+    <string name="wednesday">Wed</string>
+    <string name="thursday">Th</string>
+    <string name="friday">Fr</string>
+    <string name="saturday">Sat</string>
+    <string name="sunday">Sun</string>
+
+    <string name="habit">Daily ritual</string>
+    <string name="todo">Business</string>
+
+    <string name="habit_tab">Habits</string>
+    <string name="todo_tab">To-Do</string>
+
+
+
+
 </resources>
