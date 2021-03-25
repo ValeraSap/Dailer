@@ -15,7 +15,6 @@ public class MainActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        //setContentView(R.layout.activity_main);
 
         ActivityMainBinding binding = DataBindingUtil
                 .setContentView(this, R.layout.activity_main);
@@ -23,7 +22,6 @@ public class MainActivity extends AppCompatActivity {
 
         binding.viewPager.setAdapter(sectionsPagerAdapter);
 
-        //по идее в этот класс больше ничего не нужно добавлять
     }
 
 

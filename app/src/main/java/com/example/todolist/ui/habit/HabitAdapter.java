@@ -14,8 +14,6 @@ import com.example.todolist.databinding.ItemHabitBinding;
 import com.example.todolist.model.Habit;
 
 import java.util.List;
-//import com.example.todolist.
-
 
 public class HabitAdapter extends RecyclerView.Adapter<HabitAdapter.HabitHolder> {
 
